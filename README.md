@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-National Land Survey of Finland is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- http://www.nls.fi
+The National Land Survey of Finland provides geospatial data, maps, and property‑related e‑services. It offers map browsing and sales, topographic and aerial data for professionals, and registers ownership information for property and apartment owners in Finland.
+
+**Areas:** Geospatial Data · Maps · Property Register · E‑services · Research
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://www.nls.fi)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/national-land-survey-of-finland/](https://apis.io/providers/national-land-survey-of-finland/).
